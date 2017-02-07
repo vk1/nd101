@@ -1,3 +1,5 @@
+*.zip
+
 fast-style-transfer/checkpoints
 fast-style-transfer/examples/content/self
 fast-style-transfer/output_files/self
