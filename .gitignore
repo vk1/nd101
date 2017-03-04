@@ -10,5 +10,7 @@ project1/DLND-your-first-network/.ipynb_checkpoints/*
 
 sentiment_analysis/sentiment_network/.ipynb_checkpoints/*
 
+sentiment_analysis_tflearn/sentiment_analysis_tflearn/.ipynb_checkpoints/*
+
 sentiment_analysis_tflearn/sentiment_analysis_tflearn/labels.txt
 sentiment_analysis_tflearn/sentiment_analysis_tflearn/reviews.txt
