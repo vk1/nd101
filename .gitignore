@@ -1,4 +1,5 @@
 *.zip
+*.gz
 
 fast-style-transfer/checkpoints
 fast-style-transfer/examples/content/self
