@@ -1,6 +1,7 @@
 *.zip
 *.gz
 *.pyc
+*.p
 
 fast-style-transfer/checkpoints
 fast-style-transfer/examples/content/self
@@ -19,7 +20,6 @@ sentiment_analysis_tflearn/sentiment_analysis_tflearn/reviews.txt
 
 tensorflow_intro/deep-learning/image-classification/image_classification.data-00000-of-00001
 tensorflow_intro/deep-learning/image-classification/cifar-10-batches-py/*
-tensorflow_intro/deep-learning/image-classification/*.p
 
 tensorflow_intro/deep-learning/embeddings/data/text8
 tensorflow_intro/deep-learning/intro-to-tensorflow/notMNIST.pickle
