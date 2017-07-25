@@ -26,3 +26,6 @@ tensorflow_intro/deep-learning/intro-to-tensorflow/notMNIST.pickle
 tensorflow_intro/deep-learning/intro-to-tflearn/reviews.txt
 tensorflow_intro/deep-learning/sentiment_network/reviews.txt
 tensorflow_intro/deep-learning/tv-script-generation/save.data-00000-of-00001
+
+tensorflow_intro/deep-learning/face_generation/data
+tensorflow_intro/deep-learning/face_generation/.ipynb_checkpoints/*
